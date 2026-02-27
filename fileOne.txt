@@ -1,3 +1,5 @@
 Hello fileone.txt
 
 edited from remote.
+
+git amend
